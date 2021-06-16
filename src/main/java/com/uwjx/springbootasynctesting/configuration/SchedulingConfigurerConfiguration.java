@@ -10,7 +10,7 @@ import org.springframework.scheduling.config.ScheduledTaskRegistrar;
  * @link https://huan.uwjx.com
  * @date 2021/6/16 21:17
  */
-@Configuration
+//@Configuration
 public class SchedulingConfigurerConfiguration implements SchedulingConfigurer {
 
     @Override
